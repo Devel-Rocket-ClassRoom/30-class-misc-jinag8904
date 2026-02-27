@@ -4,7 +4,8 @@
 
 `GameUtils` 클래스는 다음 정적 메서드를 포함합니다:
 
-- `Clamp(int value, int min, int max)`: 값을 최솟값과 최댓값 사이로 제한하여 반환함
+- `Clamp(int value, int min, int max)`: 
+- 값을 최솟값과 최댓값 사이로 제한하여 반환함
   - value가 min보다 작으면 min 반환
   - value가 max보다 크면 max 반환
   - 그 외에는 value 그대로 반환
