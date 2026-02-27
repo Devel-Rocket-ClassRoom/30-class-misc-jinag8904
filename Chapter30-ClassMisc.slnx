@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="CodingPractice\CodingPractice.csproj" />
+  <Project Path="ImmutableMoney\ImmutableMoney.csproj" />
+  <Project Path="PartialRecipe\PartialRecipe.csproj" />
+  <Project Path="QueryBuilder\QueryBuilder.csproj" />
+  <Project Path="StaticUtils\StaticUtils.csproj" />
+</Solution>
