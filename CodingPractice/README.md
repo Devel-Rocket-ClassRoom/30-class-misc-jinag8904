@@ -125,7 +125,7 @@ Hello World
 
 **실행 결과**
 
-```
+``` 
 안녕하세요!
 반갑습니다. 좋은 하루 되세요.
 ```
@@ -153,7 +153,8 @@ Hello World
 
 문자열의 기본 메서드를 체이닝하여 처리하세요.
 
-- `"  Hello World  "` 문자열을 `Trim()`, `ToLower()`, `Replace(" ", "_")`으로 순서대로 처리합니다
+- `"  Hello World  "` 문자열을 `Trim()`, `ToLower()`, `Replace(" ", "_")`으로 
+- 순서대로 처리합니다
 - 결과를 출력합니다
 
 **실행 결과**
@@ -256,7 +257,8 @@ player2: 용사, 레벨 2
 
 - `CalculateDamage(int baseDamage, int level)`: 기본 데미지 + 레벨 * 5 반환
 - `IsAlive(int health)`: 체력이 0보다 큰지 반환
-- `GetHealthStatus(int health, int maxHealth)`: 비율에 따라 "양호"/"주의"/"위험"/"사망" 반환
+- `GetHealthStatus(int health, int maxHealth)`
+- : 비율에 따라 "양호"/"주의"/"위험"/"사망" 반환
 - 각 메서드를 테스트합니다
 
 **실행 결과**
